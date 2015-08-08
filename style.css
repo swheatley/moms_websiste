@@ -1,0 +1,64 @@
+body{
+background-color: #FF99CC;
+text-align: center;
+font-family: 'Arvo', serif;
+}
+h1{
+  font-size: 2em;
+}
+#sh{
+  background-color: #FFFFFF;
+  padding: 10px;
+  }
+
+address{
+  text-align: center;
+  font-size: 1em;
+
+
+}
+p{
+  text-align: center;   
+}
+ #hair{
+  font-size: .5em;
+}
+#mom{
+
+  display: block;
+  float: left;
+  border: solid black 10px;
+
+}
+
+#roller{
+    display: block;
+    float: right;
+    border: solid black 10px;
+    width: 209px;
+    height:223px;
+}
+#cell{
+  padding-top: 20%;
+  float: left;
+  font-size: 1.5em;
+
+}
+#salon{
+  float: right;
+  padding-top: 20%;
+  font-size: 1.5em;
+
+
+}
+/* 08/08/2015 - Edits and Revision */
+
+.services li{
+  display: inline;
+  padding: 20px;
+
+}
+.services{
+  background-color: white;
+  margin-top: -40px;
+}
